@@ -1,0 +1,18 @@
+{
+  "name": "84scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "check my credit score ◄ Get Your FREE Credit Score check my credit score, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "check my credit score",
+    "how to fix your credit score",
+    "best credit card 700 credit score",
+    "credit score guide",
+    "credit score 20 year old"
+  ],
+  "repository": "https://github.com/truelestor/84scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
